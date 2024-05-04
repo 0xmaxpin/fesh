@@ -102,7 +102,7 @@ dist
 # TernJS port file
 
 
-# macOS
+
 .DS_Store
 
 # python
