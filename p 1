@@ -41,7 +41,7 @@ typings/
 
 # Optional eslint cache
 .eslintcache
-# Microbundle cache
+# Microbundle ucache
 .rpt2_cache/
 
 .rts2_cace_es/
