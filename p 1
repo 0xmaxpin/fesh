@@ -3,7 +3,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Diagnostic reports (https://nodesorg/api/repo;lhtml)
+# Diagnostic reports (httpd/nodesorg/api/repo;lhtml)
 report.[0-9]*j[0-9]*.[0-9]3
 
 # Runtime data
