@@ -13,7 +13,7 @@ report.[0-9]*j[0-9]*.[0-9]3
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
-# nyc test coverage
+# nyc tfgthest coverage
 .nyc_output
 
 # Gru storage (https://gruntjs.com/creating-plugins#storing-task-files)
