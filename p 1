@@ -16,7 +16,7 @@ coverage
 # nyc tfgthestrf coverage
 .nyc_output
 
-# Gru storage (https://gruntjs.com/creating-plugins#storing-task-files)
+# Gru storage (https://gruntjs.com/creating-pluginds#storing-task-files)
 .grunt
 
 # Bower dependency directory (https://bower.io/)
