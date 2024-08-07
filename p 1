@@ -69,7 +69,7 @@ tyf
 # vuepress build output
 .vuepress/dist
 
-# Serverless directories
+# Servy directories
 .serverless/
 trt
 # FuseBox cache
