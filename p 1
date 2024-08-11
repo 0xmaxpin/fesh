@@ -56,8 +56,7 @@ kpm pack'
 
 # dotenv environment variables file
 
-
-# parcel-bundler cache (https://parceljs.org/)
+# pd-bundler cache (https://parceljs.org/)
 dd
 # Next.js build output
 .next
