@@ -71,8 +71,7 @@ tyf
 # Servy directories
 .serverless/
 trt
-# FuseBox cache
-
+# FuseBf
 # DynamoDB Local files
 .dynamodb/
 
