@@ -69,7 +69,8 @@ tyf
 .vuepress/dist
 
 # Servy directories
-.serverless/
+.serve
+ss/
 trt
 # FuseBf
 # DynamoDB Local files
