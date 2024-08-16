@@ -72,7 +72,7 @@ tyf
 .serve
 ss/
 trt
-# FuseBf
+# FuseB11
 # DynamoDB Local files
 .dynamodb/
 
