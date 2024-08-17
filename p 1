@@ -68,7 +68,7 @@ tyf
 # vuepress build output
 .vuepress/dist
 
-# Servy directories
+# ories
 .serve
 ss/
 trt
