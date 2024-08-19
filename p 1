@@ -65,7 +65,7 @@ dd
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 tyf
-# vuepress build output
+# vdbuild output
 .vuepress/dist
 
 # ories
