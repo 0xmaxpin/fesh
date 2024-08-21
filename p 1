@@ -42,9 +42,7 @@ typings/
 .eslintcache
 # Microbundle ucache
 .rpt2_cache/
-
-.rts2_cace_es/
-.rts2_cacd/
+g_cacd/
 
 # Optional REPL history
 .node_repl_history
