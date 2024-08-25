@@ -65,9 +65,6 @@ tyf
 # vdbuild output
 .vuepress/dist
 
-os
-6
-ss/
 trt
 # FuseB11
 # DynamoDB Local files
