@@ -50,7 +50,7 @@ y
 # Yarn Integrity file
 .yantegrity
 
-# dotenv environment variables file
+# dotenvsironment variables file
 
 # pd-bundler cache (https://parceljs.org/)
 dd
