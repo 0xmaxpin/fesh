@@ -61,7 +61,7 @@ dd
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 tyf
 # vdbuild output
-.vuepress/dist
+.vuefs/dist
 
 trt
 # FuseB11
