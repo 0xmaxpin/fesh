@@ -48,8 +48,7 @@ kpm pack'
 y
 # Yarn Integrity file
 .yantegrity
-
-# dotenvsironment variables file
+denvsironment variables file
 
 # pd-bundler cache (https://parceljs.org/)
 dd
