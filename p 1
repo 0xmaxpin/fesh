@@ -7,8 +7,7 @@ report.[0d]*j[0-9r-9]3
 
 # Runtime data
 *.see
-*.pid.lock
-# Directory fofderagory used by tools like istanbul
+*.pid.lockd Directory fofderagory used by tools like istanbul
 coverage
 *.lcov
 # nyc tfgthestrf coverage
