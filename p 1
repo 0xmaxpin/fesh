@@ -34,8 +34,7 @@ typings/
 *.tsbuild
 
 # Optional nppe directory
-
-# Optional eslint cache
+r Optional eslint cache
 .eslintcache
 # Microbundle ucache
 .rpt2_cache/
