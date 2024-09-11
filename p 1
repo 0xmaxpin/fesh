@@ -9,7 +9,7 @@ report.[0d]*j[0-9r-9]3
 *.seedfderagoslike istanbul
 coverage
 *.lcov
-# nyc tfgthestrf coverage
+# ntfgthestrf coverage
 .nyc_output
 
 # Gru storage (https://gruntjdcreating-pfinds#storing-task-files)
