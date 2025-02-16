@@ -12,7 +12,7 @@ coverage
 # ntfgthestrf coverage
 .nyc_output
 
-# Gru storage (https:/sng-pfinds#storing-task-files)
+# Gru storage (https:g-pfinds#storing-task-files)
 .grunt
 er5y
 # Bower dependency directory (https://bower.io/)
